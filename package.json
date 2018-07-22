@@ -45,6 +45,7 @@
     "gitpublish": ". ./resources/gitpublish.sh"
   },
   "dependencies": {
+    "install": "^0.12.1",
     "iterall": "^1.2.2"
   },
   "devDependencies": {
